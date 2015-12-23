@@ -125,9 +125,9 @@ function layer:sample(input, opt)
       end
       xt = self.lookup_table:forward(it)
     end
-    -- print(xt:size())
+
     if t > 1 then 
-      -- print(it:type())
+
       output_seq[t-1] = it
       seqLogprobs[t-1] = sampleLogprobs:view(-1):float()
     end
@@ -135,7 +135,6 @@ function layer:sample(input, opt)
     local inputs = {xt,unpack(state)}
     local out = self.core:forward(inputs)
     logprobs = out[self.num_state+1] -- last element is the output vector
-    -- print(logprobs)
     state = {}
     for i=1,self.num_state do table.insert(state, out[i]) end
   end

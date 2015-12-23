@@ -20,16 +20,15 @@ cmd:text('Options')
 
 cmd:option('-data_dir','data/lm','directory where data is')
 cmd:option('-checkpoint_dir','cv/','directory where checkpoints and language evals are saved')
-cmd:option('-save_checkpoint_every',200, 'number of iterations to save a model checkpoint')
+cmd:option('-save_checkpoint_every',200, 'number of iterations to evaluate language performance')
 cmd:option('-print_every',1,'how many steps/minibatches between printing out the loss')
 -- Model settings
 cmd:option('-rnn_size',512,'size of the rnn in number of hidden nodes in each layer')
-cmd:option('-input_encoding_size',2000,'the encoding size of each token in the vocabulary, and the image.')
+cmd:option('-input_encoding_size',2000,'the encoding size of each token in the vocabulary')
 cmd:option('-batch_size',16,'number of instances in a training batch')
 cmd:option('-num_layers',2,'number of layers in lstm')
 cmd:option('-max_sent_len',80,'maximum sequence length allowed -- includes END token')
 cmd:option('-grad_clip',5,'clip gradients at this value')
-cmd:option('-enc',-1,'is this an encoding model?')
 -- Optimization 
 cmd:option('-epochs', -1, 'max number of epochs to run for (-1 = run forever)')
 cmd:option('-optim','rmsprop','what update to use? rmsprop|sgd|sgdmom|adagrad|adam')
@@ -40,6 +39,9 @@ cmd:option('-learning_rate_decay_every', 1, 'every how many epochs thereafter to
 cmd:option('-optim_alpha',0.8,'alpha for adagrad/rmsprop/momentum/adam')
 cmd:option('-optim_beta',0.999,'beta used for adam')
 cmd:option('-optim_epsilon',1e-8,'epsilon that goes into denominator for smoothing')
+-- Sampling for Language Eval
+cmd:option('-sample_max', 1, 'use argmmax while sampling (-1 for sample from distribution)')
+cmd:option('-temperature', 1, 'temperature for sampling from probability distribution')
 -- Misc
 cmd:option('-id', 1, 'an id identifying this run/job. used in cross-val and appended when writing progress files')
 cmd:option('-seed', 123, 'random number generator seed to use')
@@ -152,16 +154,16 @@ local function sample_split(split_ix)
       primetext = primetext:float():cuda()
     end
 
-    sample, logprobs = protos.lm:sample(primetext, nil)
+    sample, logprobs = protos.lm:sample(primetext, {sample_max=opt.sample_max, temperature=opt.temperature})
 
     if opt.gpuid >= 0 then
       sample = sample:float():cuda()
     end
     -- concatenate sample with primetext and the rest of the samples in the split
     if ix == 1 then
-      split_sample = sample
+      split_sample = torch.cat(primetext, sample, 1)
     else
-      split_sample = torch.cat(split_sample, sample, 2)
+      split_sample = torch.cat(split_sample, torch.cat(primetext, sample), 2)
     end
     table.insert(vidIds, id)
   end
