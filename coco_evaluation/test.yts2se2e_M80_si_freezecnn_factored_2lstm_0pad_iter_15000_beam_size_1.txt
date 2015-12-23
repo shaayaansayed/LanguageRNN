@@ -1,0 +1,670 @@
+vid1301	A young woman is brushing a woman .
+vid1302	A man is riding a motorcycle .
+vid1303	A cat is playing with a toy .
+vid1304	A man is drinking a drinking of drinking water .
+vid1305	A woman is playing the piano .
+vid1306	A man is playing the piano .
+vid1307	A woman is putting her hair .
+vid1308	A man is walking in a lake .
+vid1309	A woman is dancing .
+vid1310	A cat is playing .
+vid1311	A cat is playing with a cat .
+vid1312	A woman is singing on a stage .
+vid1313	A woman is riding a horse .
+vid1314	A man is riding a stone on the ground .
+vid1315	A man is pushing the floor .
+vid1316	A man is doing a laptop .
+vid1317	A woman is singing .
+vid1318	A man is running on a bus .
+vid1319	A man is riding a man .
+vid1320	Two women are sitting on a table .
+vid1321	A man is riding a horse .
+vid1322	A man is slicing a potato .
+vid1323	A man is holding a guitar .
+vid1324	A cat is playing with a toy .
+vid1325	A woman is driving a car .
+vid1326	A man is doing water .
+vid1327	A man is swimming in a swimming in a swimming pool .
+vid1328	A man is stirring the food .
+vid1329	A man is running in a field .
+vid1330	A man is talking to his phone .
+vid1331	A man is running .
+vid1332	A man is kicking a ball .
+vid1333	A man is running on a street .
+vid1334	A man is slicing a piece of bread .
+vid1335	A man is eating some food .
+vid1336	A bulldog is sliding on a ice .
+vid1337	A woman is riding a ice off a boat .
+vid1338	A man is playing the guitar .
+vid1339	A group of people are in a large water .
+vid1340	A baby is walking .
+vid1341	A group of men are riding .
+vid1342	A man is slicing bread .
+vid1343	A man is cutting the meat .
+vid1344	A man is removing the food .
+vid1345	A man is adding spices .
+vid1346	A man is driving a car .
+vid1347	A man is doing a man .
+vid1348	A cat is playing with a man .
+vid1349	A man is slicing a tomato .
+vid1350	A man is putting chicken .
+vid1351	A man is riding a horse .
+vid1352	A dog is eating food .
+vid1353	A man is playing the guitar .
+vid1354	A man is performing on stage .
+vid1355	A man is walking on the ground .
+vid1356	A man is playing the guitar .
+vid1357	A man is riding a motorcycle .
+vid1358	A man is playing a basketball .
+vid1359	A chimpanzee is running .
+vid1360	A man is riding a motorcycle .
+vid1361	A man is opening a box .
+vid1362	A man is drinking a man .
+vid1363	A cat is scratching the something .
+vid1364	A man is doing a wheelie .
+vid1365	The group of people are dancing .
+vid1366	A group of cows are dancing .
+vid1367	A man is singing on a woman .
+vid1368	A woman is mixing something in a glass of a glass of a glass of her mouth .
+vid1369	A cat is licking an onion .
+vid1370	A man is cooking .
+vid1371	A man is doing a wheelie .
+vid1372	A man is doing the door .
+vid1373	A man is talking to another to another to her hand .
+vid1374	A man pours water in a pot .
+vid1375	A man cooking his kichen .
+vid1376	A man is adding the pot of pot .
+vid1377	A man is pouring tomato sauce in a pot .
+vid1378	A man is pouring a plastic container .
+vid1379	A man is pouring water in a pot .
+vid1380	A man is eating a spoon .
+vid1381	A man is pouring a lid of water .
+vid1382	Two women are dancing .
+vid1383	A woman is swimming in a woman .
+vid1384	A woman is making eggs .
+vid1385	Two boys are playing the floor .
+vid1386	A group of men are playing a ball .
+vid1387	A monkey is fighting .
+vid1388	A woman is playing with a car .
+vid1389	A baby is making a child .
+vid1390	A cat is playing with a cage .
+vid1391	A woman is cleaning a ball .
+vid1392	A woman is trying to a woman .
+vid1393	A man is jumping .
+vid1394	A cat is eating a person .
+vid1395	A man is playing with a man .
+vid1396	The player are playing the ball .
+vid1397	A man is running on a skateboard .
+vid1398	A man is talking to another man on a woman .
+vid1399	A panda is playing with a wooden object .
+vid1400	A man is playing the guitar .
+vid1401	A man is riding a horse .
+vid1402	A man is playing the guitar .
+vid1403	A man is performing a white woman .
+vid1404	People are playing basketball .
+vid1405	A man is opening a door .
+vid1406	A woman is adding oil in a pan .
+vid1407	A baby is drinking .
+vid1408	A man is playing a camera .
+vid1409	A woman is talking on a phone .
+vid1410	A woman is peeling an egg into a pan .
+vid1411	A girl is riding a huge bike .
+vid1412	A man is opening the room .
+vid1413	A baby is dancing .
+vid1414	A man is running .
+vid1415	The man is going the car .
+vid1416	A cat is playing .
+vid1417	A man is jumping in a pool .
+vid1418	A badger is playing in a house .
+vid1419	A man is singing on the stage .
+vid1420	A woman is peeling a apple .
+vid1421	A man is slicing a potato .
+vid1422	A cat is licking a white kitten .
+vid1423	A woman is peeling a woman s hand .
+vid1424	Two people are racing on a motorcycle .
+vid1425	A man is performing a bicycle .
+vid1426	A woman is grating a piece of meat .
+vid1427	A man is riding a ball .
+vid1428	A woman is washing a plastic bag .
+vid1429	A woman is slicing a piece of meat .
+vid1430	A woman is slicing a orange ball .
+vid1431	A man is making a tomato in a knife .
+vid1432	A dog is playing with a bed .
+vid1433	A woman is barking in a bed .
+vid1434	A man is playing the guitar .
+vid1435	A man is walking in a pen .
+vid1436	A panda is eating .
+vid1437	A man is slicing a potato .
+vid1438	A dog is running in a street .
+vid1439	A man is playing the phone .
+vid1440	Three people are dancing .
+vid1441	A man is boiling a lake .
+vid1442	A woman is adding liquid in a pan .
+vid1443	A man is teaching a chalkboard .
+vid1444	A man is cutting meat .
+vid1445	A man is slicing cheese in a pot of a knife .
+vid1446	A man is walking in the horse .
+vid1447	A man is doing another another man .
+vid1448	A tiger is riding a man .
+vid1449	A man is putting her water .
+vid1450	A man is running in a street .
+vid1451	A woman is cutting a paper .
+vid1452	A man is playing a ball .
+vid1453	A man is playing a ball .
+vid1454	A man is running on a beach .
+vid1455	A man is running .
+vid1456	A man is running on a goal .
+vid1457	A man is flying in the water .
+vid1458	A woman is cooking .
+vid1459	A woman is dancing .
+vid1460	A man is playing the guitar .
+vid1461	A small animal is eating food .
+vid1462	A man is holding a man .
+vid1463	A man is doing a bicycle .
+vid1464	A dog is swimming in a pool .
+vid1465	A man is playing the guitar .
+vid1466	Two men are being in a man .
+vid1467	A man is shooting a gun .
+vid1468	A man is chopping some vegetables .
+vid1469	A man is mixing shrimp .
+vid1470	A man is chopping onion .
+vid1471	A man is dancing .
+vid1472	A man is cutting a potato .
+vid1473	A man is peeling a deck .
+vid1474	A man is breaking a man .
+vid1475	A kitten is eating .
+vid1476	A man and woman are dancing in a man .
+vid1477	A man is moving in a car in a bag .
+vid1478	A woman is slicing a garlic .
+vid1479	A woman is slicing a garlic .
+vid1480	A woman is slicing a vegetable .
+vid1481	A man is slicing a vegetable .
+vid1482	A woman is mixing ingredients .
+vid1483	A man is chopping up a green onion .
+vid1484	A woman is slicing a potato .
+vid1485	A woman is cutting a vegetable .
+vid1486	A woman is adding cooked food in a pot .
+vid1487	A woman is adding ingredients in a pot .
+vid1488	A woman is adding shrimp in a pot .
+vid1489	A woman is peeling a vegetable .
+vid1490	A woman is pouring chicken in a pot .
+vid1491	A woman is slicing a vegetable .
+vid1492	A woman is adding ingredients into a pot .
+vid1493	A woman is slicing a vegetable .
+vid1494	A woman is slicing a potato .
+vid1495	A woman is slicing a piece of food .
+vid1496	A woman is adding eggs .
+vid1497	A woman is pouring ingredients into a bowl .
+vid1498	A woman is slicing a piece of a knife .
+vid1499	A woman is cooking a chicken of chicken pieces .
+vid1500	A woman is pouring oil to a pot .
+vid1501	A man and woman are riding a man .
+vid1502	A man is sitting on a man s hand .
+vid1503	A woman is slicing a vegetable .
+vid1504	A woman is slicing meat .
+vid1505	A woman is seasoning a meat .
+vid1506	A woman is stirring meat in a bowl .
+vid1507	A person is slicing meat .
+vid1508	A woman is adding food in a pot .
+vid1509	A man is riding a wheelie with a car .
+vid1510	A woman is making a bowl of a bowl .
+vid1511	A man is eating something .
+vid1512	A man is drinking some water .
+vid1513	A man is drinking water .
+vid1514	A man and woman are singing on the street .
+vid1515	A man is putting a stick .
+vid1516	A man is playing a guitar .
+vid1517	A puppy is eating .
+vid1518	A woman is peeling a pineapple .
+vid1519	A man is running .
+vid1520	A man is cutting a piece of meat .
+vid1521	A man is cutting a table .
+vid1522	A man is taking a man .
+vid1523	A dog is running in a horse .
+vid1524	A man is riding a horse .
+vid1525	A puppy is playing with a toy .
+vid1526	The man is racing in the ground .
+vid1527	A man is playing the violin .
+vid1528	A man is playing a guitar .
+vid1529	A man is putting a man in a man .
+vid1530	A man is stirring meat .
+vid1531	A man is jumping .
+vid1532	A man is jumping in the street .
+vid1533	A woman is talking on a phone .
+vid1534	A man is pouring something in a pot .
+vid1535	A man is putting some food .
+vid1536	A man is pouring something in a bowl .
+vid1537	A man is walking on a man .
+vid1538	A man is eating something .
+vid1539	A man is singing on a hotel .
+vid1540	A man is doing a huge trick .
+vid1541	A man is riding a tricycle .
+vid1542	A woman is peeling a plastic bag .
+vid1543	A man is throwing a target .
+vid1544	A man is playing guitar .
+vid1545	A man is riding a horse .
+vid1546	A woman is putting an egg .
+vid1547	A man is slicing an onion .
+vid1548	A man is slicing an onion .
+vid1549	A man is peeling a potato .
+vid1550	A man is peeling a potato .
+vid1551	A man is slicing a tomato .
+vid1552	A man is slicing a tomato .
+vid1553	A woman is slicing a potato .
+vid1554	A man is peeling a potato .
+vid1555	A man is slicing a potato .
+vid1556	A man is shooting .
+vid1557	A man is doing a pistol .
+vid1558	A woman is preparing ingredients in a bowl .
+vid1559	A man player a soccer ball on a ball .
+vid1560	A polar bear is walking .
+vid1561	A man is peeling a potato .
+vid1562	A person is peeling a potato .
+vid1563	A cat is playing with a toy .
+vid1564	A man is playing a man s man .
+vid1565	Two boys are dancing .
+vid1566	A man is playing guitar .
+vid1567	A group of dogs are dancing .
+vid1568	A woman is adding eggs in a pot .
+vid1569	A man is cutting a paper .
+vid1570	A man is walking .
+vid1571	A woman is brushing a woman on a woman on a woman .
+vid1572	A man is riding a bike .
+vid1573	A man is riding a motorcycle .
+vid1574	A man is riding a motorcycle .
+vid1575	A woman is slicing a potato .
+vid1576	A group of people are dancing .
+vid1577	A dog is running in a car .
+vid1578	A woman is slicing a cucumber .
+vid1579	A woman is playing the flute .
+vid1580	A man is playing the guitar .
+vid1581	A woman is doing a woman .
+vid1582	A woman is brushing a shower .
+vid1583	A man is slicing a potato .
+vid1584	A man is riding a bike in a hill .
+vid1585	A man is melting a pot .
+vid1586	A woman is holding a woman s hand on a woman s head .
+vid1587	A baby is eating a baby .
+vid1588	A man is playing a stage .
+vid1589	A dog is barking in a car .
+vid1590	A woman is talking on a stage .
+vid1591	A man is playing the floor .
+vid1592	A cat is playing .
+vid1593	A baby is laughing on a chair .
+vid1594	A man is singing .
+vid1595	A cat is scratching a car .
+vid1596	A man is seasoning a piece of meat .
+vid1597	A man is slicing meat .
+vid1598	A man is cutting meat .
+vid1599	A man is cooking .
+vid1600	A man is shooting a bicycle .
+vid1601	A man is jumping on a roof .
+vid1602	A man is riding a horse .
+vid1603	Two girls are dancing on a stage .
+vid1604	A baby is sitting on a chair .
+vid1605	A man is slicing a vegetable in half .
+vid1606	A dog is eating his tail .
+vid1607	A man is slicing a scallop .
+vid1608	A man is kicking a basketball .
+vid1609	A man is kicking a soccer ball .
+vid1610	A woman is applying her face .
+vid1611	A boy is dancing in the floor .
+vid1612	A man is riding a motorcycle .
+vid1613	A woman is slicing a green egg .
+vid1614	A man is mixing a potato .
+vid1615	A man cuts a tomato .
+vid1616	A man is slicing a piece of a camera .
+vid1617	A man is stirring the something .
+vid1618	A cat is playing with a man s hand .
+vid1619	A man is riding a horse .
+vid1620	A man is riding a bicycle .
+vid1621	A man is using a paper in a board .
+vid1622	Two men are eating food .
+vid1623	A man is riding a motorcycle and jumping down a motorcycle .
+vid1624	A man is riding a bicycle .
+vid1625	A man is riding a lake .
+vid1626	A man cuts a potato .
+vid1627	A man is slicing a potato .
+vid1628	A baby is talking to a baby .
+vid1629	A man is crashing off a motorcycle .
+vid1630	A man is playing the guitar .
+vid1631	A man is playing a guitar .
+vid1632	A man is climbing a ball .
+vid1633	A man is doing a bicycle .
+vid1634	A woman is playing her hair .
+vid1635	A group of people are dancing .
+vid1636	A man is adding oil in a pot .
+vid1637	A man is stirring some water in a pot .
+vid1638	A man is stirring some ingredients in a pot .
+vid1639	A woman is playing with a man .
+vid1640	A man is pushing a woman .
+vid1641	A man is riding a dog .
+vid1642	A man is riding a bicycle .
+vid1643	A man is playing a beach .
+vid1644	A man is doing a guitar .
+vid1645	A man is rolling a ball .
+vid1646	The cat is jumping in the water .
+vid1647	A man and woman are singing on a song .
+vid1648	A woman is applying something .
+vid1649	A dog is riding a horse .
+vid1650	A white white white white white white white white white paw .
+vid1651	A man is riding a bicycle .
+vid1652	A man is playing with a man .
+vid1653	A man is playing with a toy .
+vid1654	A person is cutting the something .
+vid1655	A man is riding a bike .
+vid1656	A dog is rolling its back .
+vid1657	A man is slicing chicken .
+vid1658	A man is singing .
+vid1659	A man is playing a ball .
+vid1660	A woman is dancing on a stage .
+vid1661	A man is doing a rope .
+vid1662	A woman is making a pot of water .
+vid1663	A man is singing a soccer ball .
+vid1664	A woman is taking a box .
+vid1665	A man is slicing a potato .
+vid1666	A man is slicing a potato .
+vid1667	A man is slicing a potato .
+vid1668	A woman is exercising .
+vid1669	A man is playing a keyboard .
+vid1670	A man is adding ingredients to a bowl .
+vid1671	A man is jumping a bicycle .
+vid1672	A man is riding a bicycle .
+vid1673	A man is feeding a baby .
+vid1674	A man is riding a horse .
+vid1675	A man is opening the room .
+vid1676	A woman is talking on a chair .
+vid1677	A baby is having a hallway .
+vid1678	A panda is climbing on the ground .
+vid1679	A man makes a ball .
+vid1680	A woman is brushing the something .
+vid1681	A man is feeding a man .
+vid1682	A man is shooting .
+vid1683	A baby is laughing .
+vid1684	The dog is holding the something .
+vid1685	A man is holding a woman s hand .
+vid1686	A man is riding a song .
+vid1687	A man is kicking a basketball .
+vid1688	A man is playing a ball .
+vid1689	A man is playing a ball ball .
+vid1690	A woman is mixing ingredients in a bowl .
+vid1691	A man is dancing .
+vid1692	A baby is singing on a sofa .
+vid1693	A man is riding a water .
+vid1694	A man is kicking a soccer ball .
+vid1695	A man is stirring a piece of water .
+vid1696	A dog is playing with a ball .
+vid1697	A man is walking on a dog .
+vid1698	A kitten is licking a little cat .
+vid1699	A woman is adding shrimp in a pot .
+vid1700	A person is mixing ingredients in a bowl .
+vid1701	A woman is cutting vegetables into a pot of meat .
+vid1702	A man is adding ingredients in a pan .
+vid1703	A person is slicing a potato .
+vid1704	A person is slicing a potato .
+vid1705	A woman is slicing an onion .
+vid1706	A man is slicing a vegetable .
+vid1707	A man is breaking a horse .
+vid1708	A man is singing .
+vid1709	A baby is laughing .
+vid1710	A man is swimming in a pool .
+vid1711	A man is pushing a car .
+vid1712	A man is pushing a car .
+vid1713	A group of dogs are fighting in a field .
+vid1714	A man is holding the car .
+vid1715	A kitten is playing with a person s hand .
+vid1716	A woman is applying a bottle .
+vid1717	A man is talking on a phone .
+vid1718	A dog is climbing on a cake .
+vid1719	A man is applying something .
+vid1720	A woman is putting a piece of a brush .
+vid1721	A man is running in a basket and a woman and runs down the ground .
+vid1722	A man is slicing a potato .
+vid1723	A car is driving down the street .
+vid1724	A man is kicking a ball .
+vid1725	A man is dancing on the stage .
+vid1726	A man is talking in a chalkboard .
+vid1727	A man is doing two people are dancing .
+vid1728	A man is shooting a gun .
+vid1729	A man is doing a basketball .
+vid1730	A man is doing exercise .
+vid1731	A man is riding a wheelie .
+vid1732	People are dancing .
+vid1733	A man is pouring two eggs .
+vid1734	A woman is playing the guitar .
+vid1735	A man is riding a bicycle .
+vid1736	Two girls are eating food .
+vid1737	A man is talking to a man .
+vid1738	A man is kicking a woman down a woman down a song .
+vid1739	A woman is eating something .
+vid1740	A man and woman are riding a man .
+vid1741	A man is riding a bicycle .
+vid1742	A man is putting meat in a piece of meat .
+vid1743	The man is talking .
+vid1744	A man is playing the piano .
+vid1745	A man is playing a stage .
+vid1746	A man is putting pizza .
+vid1747	A woman is doing a woman .
+vid1748	A woman is doing a woman .
+vid1749	Two men are talking .
+vid1750	The man is running on the street .
+vid1751	A man is putting a can with a can .
+vid1752	A man is slicing potatoes .
+vid1753	A man is driving a car .
+vid1754	A man is running .
+vid1755	A man is doing a motorcycle on his bike .
+vid1756	A man is making a piece of a large board .
+vid1757	A man is opening a door .
+vid1758	Two men are running .
+vid1759	A man is riding a motorcycle .
+vid1760	A monkey is fighting .
+vid1761	A man is driving a car .
+vid1762	A train is running .
+vid1763	A man is talking to the pizza .
+vid1764	The people are dancing .
+vid1765	A man is peeling a tomato .
+vid1766	A man is shooting a gun .
+vid1767	A man is lifting a man .
+vid1768	A man is singing on a stage .
+vid1769	A man is talking to his sunglasses .
+vid1770	A man is putting something .
+vid1771	A man is walking in the forest .
+vid1772	A woman is slicing a potato .
+vid1773	A man is eating something .
+vid1774	A man is doing a shirt .
+vid1775	A man is slicing a carrot .
+vid1776	Two men are fighting .
+vid1777	A man is running .
+vid1778	A cat is licking a white white white white white head .
+vid1779	A person is making a pan .
+vid1780	A monkey pulls a dogs tail .
+vid1781	A man is flying in the water .
+vid1782	A man is dancing .
+vid1783	A man is holding a man .
+vid1784	A man is kicking a woman .
+vid1785	A woman is making a woman .
+vid1786	A woman is holding a woman s hand .
+vid1787	A woman is slicing a tomato .
+vid1788	A man is playing a guitar .
+vid1789	A woman is slicing a tomato .
+vid1790	A man is hitting a child .
+vid1791	A man is falling on a man .
+vid1792	A man is pushing a man .
+vid1793	A dog is eating a dog s tail .
+vid1794	A woman is mixing a potato .
+vid1795	A woman is dancing .
+vid1796	A man is playing a guitar .
+vid1797	A man is cleaning the floor .
+vid1798	A woman is talking to a woman s head on the water .
+vid1799	The man is putting the something .
+vid1800	A man is running .
+vid1801	A man is riding a horse .
+vid1802	A woman is cooking .
+vid1803	A man is playing with a man .
+vid1804	A man is playing a rope .
+vid1805	A man is shooting with a gun .
+vid1806	A man is walking on a beach .
+vid1807	A bear is eating some some ground .
+vid1808	A man is hitting a car .
+vid1809	A man is serving water in a restaurant .
+vid1810	A man is peeling a shrimp .
+vid1811	A man and woman are riding a man .
+vid1812	A man is riding a man .
+vid1813	A car is driving a car .
+vid1814	A man is riding a bike .
+vid1815	A man is riding a horse .
+vid1816	A man and woman are on a raft .
+vid1817	A panda is climbing on a cage .
+vid1818	A woman is cutting a ball .
+vid1819	A man is talking to a man on a man .
+vid1820	A man is kicking a bicycle .
+vid1821	A man is running in a man .
+vid1822	A cat is taking a toy in a toy .
+vid1823	A man is playing the drums .
+vid1824	A woman is putting a food .
+vid1825	A dog is playing with a man .
+vid1826	A man is running a bicycle .
+vid1827	A man is cooking meat .
+vid1828	Two men are talking on the phone .
+vid1829	A man is doing a song .
+vid1830	A man is riding a bike .
+vid1831	A man is riding a horse .
+vid1832	Two kids are playing with a dog .
+vid1833	A man is riding a horse .
+vid1834	A man is playing the guitar .
+vid1835	A bear is sitting on the ground .
+vid1836	A man is pouring something in a bowl .
+vid1837	A woman is dancing .
+vid1838	A man is playing with a ball .
+vid1839	A man is working .
+vid1840	A woman is making a can .
+vid1841	A woman is slicing a potato .
+vid1842	A man is riding a bicycle .
+vid1843	A man is running .
+vid1844	A woman is cutting the something .
+vid1845	Zebras are playing .
+vid1846	Two men are dancing .
+vid1847	A man is performing a roof .
+vid1848	A man is riding a wheelie .
+vid1849	A man cooking his kichen .
+vid1850	A woman is doing a woman .
+vid1851	A woman is riding a horse .
+vid1852	Two men are fighting .
+vid1853	A jet is flying in the air .
+vid1854	A dog is playing with a dog .
+vid1855	A woman is holding a woman s hand .
+vid1856	A woman is drinking her sunglasses .
+vid1857	A woman is putting something in her hair .
+vid1858	A man is playing a horse .
+vid1859	A man is playing a ball .
+vid1860	A man is driving a wheelie on a car .
+vid1861	A man is falling on a man .
+vid1862	A man is doing some people .
+vid1863	A small animal is eating a toy .
+vid1864	A man is chopping a green pepper .
+vid1865	A man is doing a man .
+vid1866	A man is swimming in the water .
+vid1867	A woman is talking to a woman s talking .
+vid1868	A man is running .
+vid1869	A man is doing a door .
+vid1870	A monkey is pushing a monkey on a man .
+vid1871	A man is pushing a wall .
+vid1872	A man is eating a man s hand .
+vid1873	A man is kicking a man .
+vid1874	A man is dancing .
+vid1875	A man is performing a wheelie in a wheelie .
+vid1876	A person is slicing a green onion .
+vid1877	A young girl is playing the guitar .
+vid1878	A man is dancing .
+vid1879	A woman is exercising .
+vid1880	A woman is dancing .
+vid1881	A man is talking .
+vid1882	A man is walking in a lake .
+vid1883	A man is singing on a stage .
+vid1884	A man is making a box .
+vid1885	A man is riding a fire .
+vid1886	A man is fishing in the water .
+vid1887	A man is running .
+vid1888	A man is riding a fire .
+vid1889	A man is playing guitar .
+vid1890	A woman is cracking eggs .
+vid1891	A man is mixing ingredients .
+vid1892	A man is singing with a man .
+vid1893	A man is running in a board .
+vid1894	A man is doing a large board .
+vid1895	A man is performing a rope .
+vid1896	A man is doing a woman .
+vid1897	A man is running in a water .
+vid1898	A man is running on a wall .
+vid1899	A man is kicking a ball .
+vid1900	A man is walking on a man .
+vid1901	A man is breaking a man .
+vid1902	A man is running on a man .
+vid1903	A man is doing a man .
+vid1904	A man is kicking a woman .
+vid1905	A man is kicking a rope .
+vid1906	A man is performing on a stage .
+vid1907	A woman is slicing a carrot .
+vid1908	A woman is cutting a food .
+vid1909	A dog is walking .
+vid1910	A man is cutting a piece of a knife .
+vid1911	A small cat is doing a cat .
+vid1912	A man is adding ingredients in a bowl .
+vid1913	A cat is playing with a bed .
+vid1914	A man is riding a horse .
+vid1915	A dog is playing with a dog .
+vid1916	A man is riding a stunt .
+vid1917	A man is peeling a potato .
+vid1918	A man is riding a horse .
+vid1919	A cat is playing with a toy .
+vid1920	A man is running .
+vid1921	A man is running .
+vid1922	A man is jumping and a woman falls .
+vid1923	A man is running on a man .
+vid1924	A woman is singing .
+vid1925	A cat is playing with a white water .
+vid1926	A man is cooking .
+vid1927	A woman is carrying a rope .
+vid1928	A baby is eating .
+vid1929	A man is slicing a tomato .
+vid1930	A man is putting a red man .
+vid1931	A man is putting a piece of a red man .
+vid1932	A man is holding a dog .
+vid1933	A man is talking at a man .
+vid1934	A man is playing the guitar .
+vid1935	A boy is playing with a boy .
+vid1936	A man is peeling a potato .
+vid1937	A man and a man is dancing on a stage .
+vid1938	A man is walking on a cat .
+vid1939	A man is cutting garlic .
+vid1940	A man is playing a piano .
+vid1941	A man is riding a horse .
+vid1942	A man is slicing the skin of a knife .
+vid1943	A man is slicing the something .
+vid1944	A man is slicing some food .
+vid1945	A man is racing a man on a boat .
+vid1946	A man is riding a bicycle .
+vid1947	A man is riding a wheelie .
+vid1948	A man is riding a man .
+vid1949	Two men are practicing .
+vid1950	A man is riding a horse .
+vid1951	A man is riding a horse .
+vid1952	A man is slicing a piece of chicken .
+vid1953	Two girls are talking to each other .
+vid1954	A woman is holding a man s hand .
+vid1955	A man is talking on a phone .
+vid1956	A group of people are dancing .
+vid1957	A baby is eating to the animal .
+vid1958	A dog is playing in a faucet .
+vid1959	A man is running on a computer .
+vid1960	A man is riding a horse .
+vid1961	A man is riding a horse .
+vid1962	A panda is climbing on a pen .
+vid1963	A man is kicking a ball .
+vid1964	A man is adding some vegetables .
+vid1965	A man is playing with a plastic .
+vid1966	A man is riding a lake .
+vid1967	A man is singing on a man .
+vid1968	A man is playing the drums .
+vid1969	A man is singing in a motorcycle .
+vid1970	A man is kicking a basketball .
